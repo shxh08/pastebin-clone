@@ -1,1 +1,6 @@
-pastes.json
+# Ignore node modules
+node_modules/
+
+# Ignore SQLite database
+pastes.db
+pastes.db-journal
